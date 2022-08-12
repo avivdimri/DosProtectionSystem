@@ -1,6 +1,6 @@
 # DosProtectionSystem
 
-SERVER:
+Server:
 
 compile and run the server:
 ➜  src javac DosProtectionServer.java
@@ -8,7 +8,7 @@ compile and run the server:
 
 The server will handle new clients until the user write to console and then be closed
 
-CLIENT:
+Client:
 
 compile and run the client:
 ➜  src javac ClientMultiThreaded.java
